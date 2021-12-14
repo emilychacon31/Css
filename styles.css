@@ -1,0 +1,22 @@
+        .principal { 
+            background-color: aqua;
+            display: inline-block;
+            width: 300px; 
+            height: 300px;
+            margin:28px; 
+            border:28px ;
+            padding: 28px ;
+        }
+        .secundario {
+            background-color:blue;
+            display: inline-block;
+            width: 300px; 
+            height: 300px;
+        }
+
+        .terciario {
+            background-color:rgb(255, 0, 140);
+            display: inline-block;
+            width: 300px; 
+            height: 300px;
+        }
