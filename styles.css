@@ -1,22 +1,25 @@
-        .principal { 
-            background-color: aqua;
-            display: inline-block;
-            width: 300px; 
-            height: 300px;
-            margin:28px; 
-            border:28px ;
-            padding: 28px ;
-        }
-        .secundario {
-            background-color:blue;
-            display: inline-block;
-            width: 300px; 
-            height: 300px;
-        }
-
-        .terciario {
-            background-color:rgb(255, 0, 140);
-            display: inline-block;
-            width: 300px; 
-            height: 300px;
-        }
+.contenedor {
+  padding: 50px 100px;
+  font-family: "Times New Roman", Times, serif;
+}
+.titulo {
+  text-align: center;
+  line-height: 0.5em;
+  font-size: 28px;
+}
+#subtitulo {
+  font-size: 17px;
+}
+#secundario {
+  font-size: 24px;
+}
+.Imagenes {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#lectura {
+  font-size: 17px;
+  text-align: justify;
+  text-indent: 30px;
+}
